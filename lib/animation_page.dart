@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'card_component.dart';
+import 'custom_card.dart';
 import 'custom_clipper.dart';
 
 class AnimationPage extends StatefulWidget {
