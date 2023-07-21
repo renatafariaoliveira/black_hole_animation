@@ -1,9 +1,5 @@
 # Flutter - Black Hole Animation
 
-<h1 align="center">
-  <video src='assets/videos/animation.mp4' width=180/>
-</h1>
-
 As simple as you seen: just an animation.
 
 ## Author
